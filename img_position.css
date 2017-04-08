@@ -1,4 +1,7 @@
-/* Set img to the screen corner */
+/*  Set img to the screen corner  */
+/*  <link rel="stylesheet" type="text/css" href="img.css"> */
+/*  above from html file  */
+
 body {background: url("soccer.jpg") no-repeat top left,
                   url("soccer.jpg") no-repeat top right,
                   url("soccer.jpg") no-repeat bottom left,

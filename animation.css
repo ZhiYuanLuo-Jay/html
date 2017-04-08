@@ -1,0 +1,27 @@
+@keyframes extra1 {
+    0%   {background-color: brown; left:0px;}
+    50%  {background-color: yellow; left:1000px;}
+    100% {background-color: greenyellow; left:0px;}
+}
+
+@-moz-keyframes extra1 {
+    0%   {background-color: brown; left:0px;}
+    50%  {background-color: yellow; left:1000px;}
+    100% {background-color: greenyellow; left:0px;}
+}
+
+@-webkit-keyframes extra1 {
+    0%   {background-color: brown; left:0px;}
+    50%  {background-color: yellow; left:1000px;}
+    100% {background-color: greenyellow; left:0px;}
+}
+
+#banner {
+    font-size: 2em;
+    width: 300px;
+    height:150px;
+    position: relative;
+    background-color: olivedrab;
+    animation-name: extra1;
+    animation-duration: 3s;
+    }

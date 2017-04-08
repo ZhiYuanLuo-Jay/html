@@ -1,7 +1,9 @@
 
 <!-- This is to add a reference link to the Internet Society Web with new tab or new window -->
-<p>This second link <a href="http://www.isoc.org/internet/history/brief.shtml#Role" target="_blank">Internet Society web</a>
-will take you to a web page to a target reference name within that page. This link should also open in a new window or tab.</p>
+<p> 
+  This second link <a href="http://www.isoc.org/internet/history/brief.shtml#Role" target="_blank">Internet Society web</a>
+  will take you to a web page to a target reference name within that page. This link should also open in a new window or tab.
+</p>
 
 
 
